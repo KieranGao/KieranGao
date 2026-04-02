@@ -7,6 +7,22 @@
 [![modern cpp](https://img.shields.io/badge/Code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 [![cpp](https://img.shields.io/badge/Learning-Golang-blue)](https://golang.google.cn/) 
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Git-d91c25?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-d91c25?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++ -Modern%20C++-d91c25?style=flat-square&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-d91c25?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KieranGao&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KieranGao">
+  <img src="https://github-readme-stats.vercel.app/api?username=KieranGao">
+</picture>
+
 </div>
 
 
