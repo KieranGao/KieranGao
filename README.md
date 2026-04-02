@@ -17,11 +17,6 @@
     <img src="https://img.shields.io/badge/Docker-d91c25?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KieranGao&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=KieranGao">
-  <img src="https://github-readme-stats.vercel.app/api?username=KieranGao">
-</picture>
 
 </div>
 
