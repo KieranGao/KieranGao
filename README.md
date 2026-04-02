@@ -9,7 +9,7 @@
 [![modern cpp](https://img.shields.io/badge/Code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 [![cpp](https://img.shields.io/badge/Learning-Golang-blue)](https://golang.google.cn/) 
 
-[![ICPC Regional Medalist](https://img.shields.io/badge/ICPC%20Regional%20Medalist-000000?style=flat-square&logo=ACM&logoColor=brown)](https://icpc.qlu.edu.cn/blog/722/691980ed31505119789ce439#1763279085875)
+[![ICPC Regional Medalist](https://img.shields.io/badge/ICPC%20Regional%20Medalist-000000?style=flat-square&logo=ACM&logoColor=brown)](https://cpcfinder.com/student/c59941e9-85b5-47f3-9e85-77fe1b090cf1)
 
 <p align = "center">
     <img src="https://img.shields.io/badge/Git-d91c25?style=flat-square&logo=git&logoColor=white" />
