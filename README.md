@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Linux-Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/C++ -Modern%20C++-d91c25?style=flat-square&logo=cplusplus&logoColor=white" />
     <img src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-d91c25?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
