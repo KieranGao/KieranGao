@@ -52,7 +52,7 @@
 </div>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KieranGao&theme=tokyonight" width="100%" />
-<img src="https://raw.githubusercontent.com/KieranGao/KieranGao/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
 </div>
 
 
