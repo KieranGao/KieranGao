@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack <a id="TechStack"></a>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,go,git,mysql,redis,linux,ubuntu,nginx,nodejs,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,go,git,mysql,redis,linux,ubuntu,nginx,docker,kubernetes,cmake,vscode,qt,nodejs,vue,vite,electron,latex,md,notion,postman,powershell,vim&perline=8" />
 </div>
 
 <p align="center">
