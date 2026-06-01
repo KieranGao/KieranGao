@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=KieranGao&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=EndureAndPersist&descAlignY=62&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=OxyTheCrack&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=EndureAndPersist&descAlignY=62&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=OxyTheCrack;Backend+Technology+Enthusiast;Modern+C+++%7C+Golang+%7C+Algorithm" />
 
