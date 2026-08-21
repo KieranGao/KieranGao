@@ -11,7 +11,7 @@
 [![CSDN](https://img.shields.io/badge/Blog-CSDN-darkred)](https://blog.csdn.net/2402_88083295)
 [![Blog](https://img.shields.io/badge/Blog-Algorithm-darkgreen)](https://kierangao.github.io/)
 
-[![ICPC Regional Medalist](https://img.shields.io/badge/ICPC%20Regional%20Medalist-000000?style=flat-square&logo=ACM&logoColor=brown)](https://cpcfinder.com/student/c59941e9-85b5-47f3-9e85-77fe1b090cf1)
+[![ICPC Regional Medalist](https://img.shields.io/badge/ICPC%20Regional%20Medalist-000000?style=flat-square&logo=ACM&logoColor=brown)]()
 
 </div>
 
