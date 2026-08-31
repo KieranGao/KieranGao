@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack <a id="TechStack"></a>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,go,git,mysql,redis,linux,ubuntu,nginx,docker,kubernetes,cmake,vscode,qt,nodejs,vue,vite,electron,latex,md,notion,postman,powershell,vim&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,go,ts,js,git,mysql,redis,linux,ubuntu,nginx,docker,kubernetes,kafka,cmake,vscode,qt,nodejs,html,vue,vite,electron,fastapi,latex,md,stackoverflow,notion,postman,powershell,vim,discord,instagram&perline=8" />
 </div>
 
 <p align="center">
@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-Modern%20C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-00599C?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=nginx&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /
