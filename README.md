@@ -7,6 +7,9 @@
 <br/>
 
 <!-- Personal Links & Badges -->
+<a href="https://x.com/KieranGao">
+  <img src="https://img.shields.io/badge/Twitter-KieranGao-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
 <a href="https://github.com/KieranGao">
   <img src="https://img.shields.io/badge/GitHub-KieranGao-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
@@ -124,7 +127,9 @@
 </div>
 <h2 align="center">📬 Contact Me <a id="Contact me"></h2>
 <div align="center">
-
+<a href="https://x.com/KieranGao">
+  <img src="https://img.shields.io/badge/Twitter-KieranGao-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 <a href="https://github.com/KieranGao">
   <img src="https://img.shields.io/badge/GitHub-KieranGao-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -134,7 +139,6 @@
 <a href="https://kierangao.github.io/">
   <img src="https://img.shields.io/badge/Personal-Blog-2E8B57?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
-
 <!-- Replace with your actual email address -->
 <a href="mailto:YOUR_EMAIL@example.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
