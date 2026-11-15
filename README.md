@@ -1,8 +1,8 @@
 <div align="center">
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=OxyTheCrack&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=EndureAndPersist&descAlignY=62&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=KRNTheCrack&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=white&desc=EndureAndPersist&descAlignY=62&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=OxyTheCrack;Backend+Technology+Enthusiast;Modern+C%2B%2B+%7C+Golang+%7C+AI-Native" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=620&lines=KRNTheCrack;Backend+Technology+Enthusiast;Modern+C%2B%2B+%7C+Golang+%7C+AI-Native" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Hi! I'm <b>OxyTheCrack (Kieran Gao)</b>, a Software Engineering student at
+  Hi! I'm <b>KRNTheCrack (Kieran Gao)</b>, a Software Engineering student at
   <b>Qilu University of Technology</b>.
 </p>
 
