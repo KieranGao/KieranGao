@@ -64,7 +64,7 @@
 
 <p>
   ⚙️ <b>Technical Interests</b><br/>
-  Backend Development, Linux Systems, Network Programming,<br/>
+  Full-Stack Development, Linux Systems, Network Programming,<br/>
   Distributed Systems
 </p>
 
