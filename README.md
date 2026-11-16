@@ -31,7 +31,7 @@
 
 <p align="center">
   I'm passionate about computer science, backend engineering, AI applications,
-  and system-level development. My journey started with competitive programming,
+  and full-stack development. My journey started with competitive programming,
   where I developed a solid foundation in algorithms and data structures.
   Gradually, I shifted my focus toward software engineering, full-stack development, distributed systems, and AI-powered applications.
 </p>
