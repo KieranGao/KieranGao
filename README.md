@@ -25,8 +25,10 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  Hi! I'm <b>KRNTheCrack (Kieran Gao)</b>, a third-year Software Engineering undergraduate at
-  <b>Qilu University of Technology</b>.
+  Hi! I'm <b>KRNTheCrack (Kieran Gao)</b> 
+  <br/>
+  a third-year Software Engineering undergraduate at
+  <b>Qilu University of Technology (Shandong Academy of Sciences)</b>.
 </p>
 
 <p align="center">
