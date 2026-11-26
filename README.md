@@ -8,7 +8,7 @@
 
 <!-- Personal Links & Badges -->
 <a href="https://x.com/kutethecats">
-  <img src="https://img.shields.io/badge/Twitter-KieranGao-000000?style=flat-square&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-KuteTheCats-000000?style=flat-square&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/KieranGao">
   <img src="https://img.shields.io/badge/GitHub-KieranGao-181717?style=flat-square&logo=github&logoColor=white" />
@@ -130,7 +130,7 @@
 <h2 align="center">📬 Contact Me <a id="Contact me"></h2>
 <div align="center">
 <a href="https://x.com/kutethecats">
-  <img src="https://img.shields.io/badge/Twitter-KieranGao-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-KuteTheCats-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/KieranGao">
   <img src="https://img.shields.io/badge/GitHub-KieranGao-181717?style=for-the-badge&logo=github&logoColor=white" />
