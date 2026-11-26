@@ -7,7 +7,7 @@
 <br/>
 
 <!-- Personal Links & Badges -->
-<a href="https://x.com/KieranGao">
+<a href="https://x.com/kutethecats">
   <img src="https://img.shields.io/badge/Twitter-KieranGao-000000?style=flat-square&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/KieranGao">
@@ -129,7 +129,7 @@
 </div>
 <h2 align="center">📬 Contact Me <a id="Contact me"></h2>
 <div align="center">
-<a href="https://x.com/KieranGao">
+<a href="https://x.com/kutethecats">
   <img src="https://img.shields.io/badge/Twitter-KieranGao-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://github.com/KieranGao">
